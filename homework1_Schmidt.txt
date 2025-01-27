@@ -1,3 +1,5 @@
 Erin Schmidt, 1/30/2025
 
 Hello, my name is Erin Schmidt. I am a sophomore majoring in Wildlife Ecology with a certificate in Environmental Studies. Some hobbies include hiking, canoeing, and crafting (ex. knitting, crocheting, and sewing).
+
+So far, I have learned how to make a new repository, make a file, stage and commit a file, make a branch and merge branches.
